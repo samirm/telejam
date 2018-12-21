@@ -1,0 +1,27 @@
+{
+  "name": "telejam",
+  "version": "0.1.0",
+  "description": "A telegram bot to help you collect and manage your jam.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^3.25.5"
+  },
+  "engines": {
+    "node": "4.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samirm/telejam"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "contributors": [
+    "Samir Mamedov <smammadov2011@my.fit.edu> (https://samirmamedov.com)",
+    "Matt Attiyat <mattt412@gmail.com> (https://wirelessbread.com)"
+  ],
+  "license": "GPLv3"
+}
