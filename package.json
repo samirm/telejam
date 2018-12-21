@@ -4,10 +4,11 @@
   "description": "A telegram bot to help you collect and manage your jam.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "micro-bot"
   },
   "dependencies": {
-    "telegraf": "^3.25.5"
+    "telegraf": "^3.25.5",
+    "micro-bot": "^2.5.3"
   },
   "engines": {
     "node": "4.2.6"
